@@ -1,0 +1,32 @@
+/* A:\5.Projects & Information\12.notifybu\frontend\style.css */
+
+.pass-container { 
+    position: relative; 
+    width: 100%; 
+}
+
+.pass-toggle { 
+    position: absolute; 
+    right: 12px; 
+    top: 50%; 
+    transform: translateY(-50%); 
+    cursor: pointer; 
+    color: #94a3b8; 
+    display: flex; 
+    align-items: center; 
+    z-index: 10;
+}
+
+.pass-toggle:hover { 
+    color: #ea580c; 
+}
+
+svg { 
+    width: 20px; 
+    height: 20px; 
+}
+
+/* Scoped margin for Login Card Header */
+#login-card h1 {
+    margin-bottom: 1.5rem; /* Equivalent to mb-6 for consistent spacing */
+}
