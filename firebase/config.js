@@ -1,7 +1,7 @@
 // A:\5.Projects & Information\12.notifybu\firebase\config.js
 
 const firebaseConfig = { 
-    apiKey: "AIzaSyA2hmj3-bcRD2w9dZxP_SPiH2SqUwR4ZGE", 
+    apiKey: "", 
     authDomain: "notifybu.firebaseapp.com", 
     projectId: "notifybu", 
     storageBucket: "notifybu.appspot.com", 
